@@ -2,6 +2,10 @@
 
 Pixel/UDG painter in Pygame with a ZX Spectrum-inspired interface.
 
+## Visual example
+
+<img src="Example.png" />
+
 ## Run
 
 ```bash
