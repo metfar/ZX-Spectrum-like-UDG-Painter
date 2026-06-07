@@ -4,7 +4,7 @@ Pixel/UDG painter in Pygame with a ZX Spectrum-inspired interface.
 
 ## Visual example
 
-<img src="Example.png" />
+<img src="blob:https://github.com/3535a933-c3ce-4165-950d-4933b454c7b8" />
 
 ## Run
 
@@ -27,8 +27,8 @@ Keyboard:
 - Space: toggle pixel under cursor.
 - 0..7: select normal Spectrum colour.
 - Shift + 0..7: select bright Spectrum colour.
-- + / -: increase/decrease canvas size.
-- Shift + + / Shift + -: scale image from stable reference.
+- "+"/"-": increase/decrease canvas size.
+- Shift+"+" / Shift+"-": scale image from stable reference.
 - S: save.
 - L: load.
 - M: change save format.
