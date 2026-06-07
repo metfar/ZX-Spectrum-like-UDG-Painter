@@ -4,7 +4,7 @@ Pixel/UDG painter in Pygame with a ZX Spectrum-inspired interface.
 
 ## Visual example
 
-<img src="blob:https://github.com/3535a933-c3ce-4165-950d-4933b454c7b8" />
+<img src="Example.png" width="50%" />
 
 ## Run
 
