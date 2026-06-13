@@ -2,6 +2,11 @@
 
 Pixel/UDG painter in Pygame with a ZX Spectrum-inspired interface.
 
+## Advise
+
+This was discontinued on this library and rewritten using sumGUI at [SumGUI Project](https://github.com/metfar/sumgui/tree/main/udg_painter_reborn).
+
+
 ## Visual example
 
 <img src="Example.png" width="50%" />
